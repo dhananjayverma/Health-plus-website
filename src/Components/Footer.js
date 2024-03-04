@@ -68,10 +68,10 @@ function Footer() {
           <p className="ft-list-title">Talk To Us</p>
           <ul className="ft-list-items">
             <li>
-              <a href="mailto:support@healthplus.com">support@healthplus.com</a>
+              <a href="">support@healthplus.com</a>
             </li>
             <li>
-              <a href="mailto:appointment@healthplus.com">
+              <a href="">
                 appointment@healthplus.com
               </a>
             </li>
@@ -91,7 +91,7 @@ function Footer() {
         <ul className="ft-social-links">
           <li>
             <a
-              href="https://linkedin.com/in/Alkaison/"
+              href=""
               title="LinkedIn"
               target="_blank"
               rel="noopener noreferrer"
@@ -108,7 +108,7 @@ function Footer() {
 
           <li>
             <a
-              href="https://facebook.com/"
+              href=""
               title="FaceBook"
               target="_blank"
               rel="noopener noreferrer"
@@ -125,7 +125,7 @@ function Footer() {
 
           <li>
             <a
-              href="https://x.com/Alkaison/"
+              href=""
               title="Twitter"
               target="_blank"
               rel="noopener noreferrer"
